@@ -1,0 +1,16 @@
+=== Hidden Link Recovery Report (GCN) ===
+hidden_ratio    : 0.0500
+threshold       : 0.5000
+n_hidden        : 127
+n_recovered     : 72
+Recovery Rate   : 0.5669  (56.7%)
+Mean Score      : 0.5555
+Median Score    : 0.8621
+
+--- Standard CV Metrics ---
+AUC     : 0.8890
+AUPR    : 0.5216
+Acc     : 0.9899
+F1      : 0.5194
+Prec    : 0.4498
+Recall  : 0.6146
