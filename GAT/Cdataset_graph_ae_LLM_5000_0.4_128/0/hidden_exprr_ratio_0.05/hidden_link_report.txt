@@ -1,0 +1,16 @@
+=== Hidden Link Recovery Report (GAT) ===
+hidden_ratio    : 0.0500
+threshold       : 0.5000
+n_hidden        : 127
+n_recovered     : 96
+Recovery Rate   : 0.7559  (75.6%)
+Mean Score      : 0.7572
+Median Score    : 0.9885
+
+--- Standard CV Metrics ---
+AUC     : 0.9353
+AUPR    : 0.4506
+Acc     : 0.9634
+F1      : 0.2667
+Prec    : 0.1622
+Recall  : 0.7514
